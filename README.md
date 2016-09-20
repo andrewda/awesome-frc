@@ -44,6 +44,7 @@ A curated list of packages and resources regarding the First Robotics Competitio
 ### General
 
 - [QDriverStation](https://github.com/FRC-Utilities/QDriverStation)
+- [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual)
 
 ### Scouting
 
