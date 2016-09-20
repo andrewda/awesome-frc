@@ -1,6 +1,6 @@
 # Awesome FRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of packages and resources regarding the First Robotics Competition
+A curated list of packages and resources related to the FIRST Robotics Competition.
 
 ## Table of Contents
 
@@ -9,6 +9,7 @@ A curated list of packages and resources regarding the First Robotics Competitio
   - [C++](#c)
   - [C#](#c-1)
   - [Python](#python)
+  - [CSS](#css)
 
 - [Resources](#resources)
   - [General](#general)
@@ -41,6 +42,10 @@ A curated list of packages and resources regarding the First Robotics Competitio
 - [RobotPy-WPILib](https://github.com/robotpy/robotpy-wpilib)
 - [pynetworktables](https://github.com/robotpy/pynetworktables)
 
+### CSS
+
+- [banners.css](https://github.com/ErikBoesen/banners.css)
+
 ## Resources
 
 ### General
@@ -48,6 +53,8 @@ A curated list of packages and resources regarding the First Robotics Competitio
 - [QDriverStation](https://github.com/FRC-Utilities/QDriverStation)
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual)
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-allance)
+- [FIRST Map](https://firstmap.github.io)
+- [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop)
 
 ### Scouting
 
@@ -60,9 +67,10 @@ A curated list of packages and resources regarding the First Robotics Competitio
 ### Dashboard
 
 - [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard/)
+- [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js)
 
 ### Discussion Boards
 
 - [/r/FRC](https://www.reddit.com/r/FRC/)
 - [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
-- [Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/)
+- [Discord Server](https://discord.gg/frc)
