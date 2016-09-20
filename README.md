@@ -24,6 +24,7 @@ A curated list of packages and resources regarding the First Robotics Competitio
 - [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard)
 - [Strongback](https://github.com/strongback/strongback-java)
 - [ToastAPI](https://github.com/Open-Rio/ToastAPI)
+- [CCRE](https://github.com/solar-engine/common-chicken-runtime-engine)
 
 ### C++
 
