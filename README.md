@@ -62,3 +62,4 @@ A curated list of packages and resources regarding the First Robotics Competitio
 
 - [/r/FRC](https://www.reddit.com/r/FRC/)
 - [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php)
+- [Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/)
