@@ -2,7 +2,7 @@
 
 A curated list of packages and resources related to the FIRST Robotics Competition.
 
-## Table of Contents
+## Contents
 
 - [Packages](#packages)
   - [Java](#java)
