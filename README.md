@@ -63,7 +63,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 - [FRCScouter (Android App)](https://github.com/hammerhead226/MasterFRCScouter) - An Android app created by team 226 for match scouting.
 - [FRC-Scout (Web App)](https://github.com/FIRST-4030/frc-scout) - The code running behind the powerful frcscout.com written by team 4030.
 - [FRC_Scouting_V2 (Windows App)](https://github.com/xNovax/FRC_Scouting_V2) - An in-depth Windows app for 2014 and 2015 match scouting.
-- [FRCScouting](https://github.com/username115/FRCScouting) - Android application for scouting at FRC competitions.
+- [FRCScouting (Android App)](https://github.com/username115/FRCScouting) - Android application for scouting at FRC competitions.
 
 ### Dashboard
 
