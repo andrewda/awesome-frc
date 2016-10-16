@@ -74,4 +74,4 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 
 - [/r/FRC](https://www.reddit.com/r/FRC/) - The FRC subreddit.
 - [Chief Delphi](https://www.chiefdelphi.com/forums/portal.php) - The one-stop-shop for all things FRC.
-- [Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/) - A community to talk to and hang out with fellow FRC students, mentors, and alumni. (Currently you must request access; however; we will be moving to open invites soon)
+- [Discord Server](http://discord.gg/frc) - A community to talk to and hang out with fellow FRC students, mentors, and alumni.
