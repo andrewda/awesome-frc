@@ -52,7 +52,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 
 - [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - An open-source and multi-platform Driver Station.
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - The all-in-one manual for FRC teams and team members.
-- [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-allance) - The code behind FRC's leading event, team, and match tracker.
+- [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - The code behind FRC's leading event, team, and match tracker.
 - [FIRST Map](https://firstmap.github.io) - A map to visualize the locations of FRC teams around the world.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - A chrome extension to show a random FRC team on a new tab.
 
