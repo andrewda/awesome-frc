@@ -10,6 +10,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
   - [C#](#c-1)
   - [Python](#python)
   - [CSS](#css)
+  - [Ruby](#ruby)
 
 - [Resources](#resources)
   - [General](#general)
@@ -45,6 +46,9 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 ### CSS
 
 - [banners.css](https://github.com/ErikBoesen/banners.css) - A library for creating pure CSS FRC banners. Perfect for any team's website.
+
+### Ruby
+- [tba.rb](https://github.com/frc1418/tba.rb) - a simple Ruby library for easy interaction with The Blue Alliance API.
 
 ## Resources
 
