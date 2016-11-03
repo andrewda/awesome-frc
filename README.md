@@ -59,6 +59,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - The code behind FRC's leading event, team, and match tracker.
 - [FIRST Map](https://firstmap.github.io) - A map to visualize the locations of FRC teams around the world.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - A chrome extension to show a random FRC team on a new tab.
+- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - A Facebook Messenger ChatBot to get informations about FIRST Robotics Teams, Events and Matches.
 
 ### Scouting
 
