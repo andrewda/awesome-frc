@@ -63,6 +63,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 
 ### Scouting
 
+- [Robot Scouter (Android app)](https://github.com/SUPERCILEX/Robot-Scouter/) - 🤖 A scouting app for FIRST Robotics Competition teams
 - [Scoutomic (Electron/Node.js App)](https://github.com/Scoutomic/Scoutomic-Client) - Team 2521's scouting application, written in Node.js and Electron. Currently being re-beautified in React.
 - [FRCScout (Electron/Node.js App)](https://github.com/FRCScout/FRCScout) - An application created by team 1418 to allow smooth scouting.
 - [FRCScouter (Android App)](https://github.com/hammerhead226/MasterFRCScouter) - An Android app created by team 226 for match scouting.
