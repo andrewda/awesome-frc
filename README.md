@@ -71,7 +71,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 - [FRC_Scouting_V2 (Windows App)](https://github.com/xNovax/FRC_Scouting_V2) - An in-depth Windows app for 2014 and 2015 match scouting.
 - [FRCScouting (Android App)](https://github.com/username115/FRCScouting) - Android application for scouting at FRC competitions.
 
-### Dashboard
+### Dashboards
 
 - [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard) - A powerful and customizable dashboard written in Electron and Node.js.
 - [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js) - A SmartDashboard port written in JavaScript.
