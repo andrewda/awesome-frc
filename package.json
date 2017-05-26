@@ -1,0 +1,30 @@
+{
+  "name": "awesome-frc",
+  "version": "1.0.0",
+  "description": "A curated list of packages and resources regarding the First Robotics Competition",
+  "main": "tests/awesome.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+      "awesome-lint": "^0.1.0"
+  },
+  "scripts": {
+    "test": "node tests/awesome.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewda/awesome-frc.git"
+  },
+  "keywords": [
+    "awesome",
+    "frc",
+    "robotics"
+  ],
+  "author": "Andrew Dassonville <dassonville.andrew@gmail.com>",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/andrewda/awesome-frc/issues"
+  },
+  "homepage": "https://github.com/andrewda/awesome-frc#readme"
+}
