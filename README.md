@@ -54,6 +54,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 
 ### General
 
+- [Wpilib ScreenSteps](https://wpilib.screenstepslive.com/) - Official Docuentation for hardware and officially supported software languages.
 - [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - An open-source and multi-platform Driver Station.
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - The all-in-one manual for FRC teams and team members.
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - The code behind FRC's leading event, team, and match tracker.
