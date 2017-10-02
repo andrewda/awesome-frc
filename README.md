@@ -75,7 +75,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 
 - [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard) - A powerful and customizable dashboard written in Electron and Node.js.
 - [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js) - A SmartDashboard port written in JavaScript.
-- [Tabula](https://github.com/2729StormRobotics/Tabula) - Web Dashboard powered by AngularJS. Currently a WIP
+- [Tabula](https://github.com/2729StormRobotics/Tabula) - Web Dashboard powered by AngularJS. Currently a WIP.
 
 ### Discussion Boards
 
