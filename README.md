@@ -60,6 +60,7 @@ A curated list of packages and resources related to the FIRST Robotics Competiti
 - [FIRST Map](https://firstmap.github.io) - A map to visualize the locations of FRC teams around the world.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - A chrome extension to show a random FRC team on a new tab.
 - [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - A Facebook Messenger bot to get information about FRC teams, events, and matches.
+- [WPILib ScreenSteps](https://wpilib.screenstepslive.com/) - Official documentation for hardware and officially supported software languages.
 
 ### Scouting
 
