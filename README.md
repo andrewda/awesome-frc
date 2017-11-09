@@ -1,6 +1,6 @@
 # Awesome FRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="media/first.svg" align="right" width="150">](http://firstinspires.org/robotics/frc)
+[<img src="media/first.svg" align="right" width="150">](http://www.gnome.org)
 
 > A curated list of _awesome_ packages and resources related to the FIRST Robotics Competition.
 
@@ -24,6 +24,7 @@ FRC is a global High School robotics competition in which students compete to bu
 
 - [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms.
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
+- [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - A complete guide to programming in FRC, the right way.
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
 - [FIRST Map](https://firstmap.github.io) - Map of the world's FRC teams.
 - [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or change depending on the current time.
