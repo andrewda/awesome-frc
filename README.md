@@ -1,6 +1,6 @@
 # Awesome FRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="media/first.svg" align="right" width="150">](http://www.gnome.org)
+[<img src="media/first.svg" align="right" width="150">](http://firstinspires.org/robotics/frc)
 
 > A curated list of _awesome_ packages and resources related to the FIRST Robotics Competition.
 
