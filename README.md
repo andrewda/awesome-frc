@@ -10,7 +10,7 @@ FRC is a global High School robotics competition in which students compete to bu
 
 - [General](#general)
 - [Scouting](#scouting)
-- [Dashboards](#dashboards)
+- [Driving](#driving)
 - [Community](#community)
 - [Repositories](#repositories)
   - [Java](#java)
@@ -19,20 +19,21 @@ FRC is a global High School robotics competition in which students compete to bu
   - [Python](#python)
   - [CSS](#css)
   - [Ruby](#ruby)
+- [Miscellaneous](#miscellaneous)
 
 ## General
 
-- [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
-- [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
-- [FIRST Map](https://firstmap.github.io) - Beautiful map of the world's FRC teams.
-- [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or show the team with a number corresponding to the current time.
-- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.
+
+## Programming
+
+- [FRC Programming Done Right](http://frc-pdr.readthedocs.io/en/latest/) - Exhaustive and well-written guide to programming in FRC, the right way.
 - [WPILib ScreenSteps](https://wpilib.screenstepslive.com) - Official documentation for hardware and officially supported software languages.
 
 ## Vision
 
+- [CSCore](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
 - [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
 
 ## Scouting
@@ -40,8 +41,9 @@ FRC is a global High School robotics competition in which students compete to bu
 - [Robot Scouter](https://github.com/SUPERCILEX/Robot-Scouter) - Gorgeous and powerful Android scouting app.
 - [VictiScout](https://github.com/FRCScout/FRCScout) - Light Electron scouting app by Team 1418.
 
-## Dashboards
+## Driving
 
+- [QDriverStation](https://github.com/FRC-Utilities/QDriverStation) - Popular open-source Driver Station clone for all Desktop platforms. Though not permitted in competition, essential for teams wishing to drive on another platform or up their open source cred.
 - [FRCDashboard](https://github.com/FRCDashboard/FRCDashboard) - Powerful and flexible boilerplate for creating complex driving dashboards with web technologies.
 - [SmartDashboard.js](https://github.com/erikuhlmann/SmartDashboard.js) - SmartDashboard port written in JavaScript with `nw.js`.
 
@@ -73,7 +75,8 @@ FRC is a global High School robotics competition in which students compete to bu
 
 ### Python
 
-- [RobotPy-WPILib](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robots in Python.
+- [RobotPy-WPILib](https://github.com/robotpy/robotpy-wpilib) - Unofficial WPILib port allowing you to write robot code in Python.
+- [pyrobottraining](https://github.com/robotpy/pyrobottraining) - Fundamental tutorial for FRC robot coding in Python.
 - [pynetworktables](https://github.com/robotpy/pynetworktables) - Port to allow accessing of NetworkTables in Python.
 
 ### CSS
@@ -82,3 +85,9 @@ FRC is a global High School robotics competition in which students compete to bu
 
 ### Ruby
 - [tba.rb](https://github.com/frc1418/tba.rb) - Simple Ruby library for easy interaction with The Blue Alliance API.
+
+## Miscellaneous
+
+- [FIRST Map](https://firstmap.github.io) - Beautiful map of the world's FRC teams.
+- [FRC New Tab](https://chrome.google.com/webstore/detail/frc-new-tab/agmoglelphhinnadfmbfodhkdagibkop) - Chrome extension to fill your New Tab page with a random FRC team, or show the team with a number corresponding to the current time.
+- [FRC Bot](https://github.com/FRC-Bot/FRCBot-ChatBot) - Facebook Messenger bot to get information about FRC teams, events, and matches.
