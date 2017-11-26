@@ -19,6 +19,7 @@
   - [Python](#python)
   - [CSS](#css)
   - [Ruby](#ruby)
+- [Videos](#videos)
 - [Miscellaneous](#miscellaneous)
 
 ## General
@@ -86,6 +87,11 @@
 
 ### Ruby
 - [tba.rb](https://github.com/frc1418/tba.rb) - Simple Ruby library for easy interaction with The Blue Alliance API.
+
+## Videos
+- [FIRST on YouTube](https://www.youtube.com/user/FIRSTWorldTube) - FIRST's official YouTube channel.
+- [Game Animations](https://www.youtube.com/watch?v=uYNu9cQac1o&list=PLOPIDgAYFKaQmz6aznEMAbewtqqT7FCqY) - Playlist of every game release video since 2003.
+- [Reveal Videos](https://www.youtube.com/watch?v=2zu1EzyKRRE&list=PLocx3vY5mUKNSVfiI1kEjZ9AXtMu1N7-B) - Playlist of the best robot reveal videos.
 
 ## Miscellaneous
 
