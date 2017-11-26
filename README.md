@@ -1,10 +1,10 @@
 # Awesome FRC [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[<img src="media/first.svg" align="right" width="150">](http://www.gnome.org)
+[<img src="media/first.svg" align="right" width="150">](https://www.firstinspires.org/robotics/frc)
 
 > A curated list of _awesome_ packages and resources related to the FIRST Robotics Competition.
 
-FRC is a global High School robotics competition in which students compete to build the best robot possible in just six weeks. These tools, resources, communities, and learning materials will help make your FRC season a blast.
+[FRC](https://www.firstinspires.org/robotics/frc) is a global High School robotics competition in which students compete to build the best robot possible in just six weeks. These tools, resources, communities, and learning materials will help make your FRC season a blast.
 
 ## Contents
 
@@ -25,6 +25,7 @@ FRC is a global High School robotics competition in which students compete to bu
 
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
+- [FIRST Robotics Competition on Wikipedia](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) - The official Wikipedia article on FRC.
 
 ## Programming
 
