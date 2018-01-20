@@ -27,7 +27,7 @@
 - [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
 - [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
 - [FIRST Robotics Competition on Wikipedia](https://en.wikipedia.org/wiki/FIRST_Robotics_Competition) - The official Wikipedia article on FRC.
-- [GradleRIO] (A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.)
+- [GradleRIO] (https://github.com/Open-RIO/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 
 ## Programming
 
