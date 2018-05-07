@@ -69,6 +69,7 @@
 ### C++
 
 - [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
+- [barebonesFRC](https://github.com/Ewpratten/barebonesFRC) (still in development)
 
 ### C#
 
