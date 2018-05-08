@@ -69,7 +69,7 @@
 ### C++
 
 - [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
-- [barebonesFRC](https://github.com/Ewpratten/barebonesFRC) (still in development)
+- [barebonesFRC](https://github.com/Ewpratten/barebonesFRC) - A stripped down codebase to help get a robot functioning as soon after kickoff as possible. (still in development)
 
 ### C#
 
