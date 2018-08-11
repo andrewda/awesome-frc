@@ -38,6 +38,7 @@
 
 - [CSCore](https://github.com/wpilibsuite/cscore) - The CScore camera vision library from WPI.
 - [254 2016 Vision Talk](https://www.youtube.com/watch?v=rLwOkAJqImo) - The most complete lesson about vision tracking out there.
+- [2729 Storm Robotics Vision](https://github.com/2729StormRobotics/StormCV2017) - An example of using OpenCV and GRIP to create a vision system.
 
 ## Scouting
 
