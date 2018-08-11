@@ -24,10 +24,10 @@
 
 ## General
 
-- [FRCPenultimateManual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
-- [TheBlueAlliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
+- [FRC Penultimate Manual](https://github.com/MC42/FRCPenultimateManual) - All-in-one manual for FRC teams and team members.
+- [The Blue Alliance](https://github.com/the-blue-alliance/the-blue-alliance) - FRC's leading event, team, and match tracker.
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
-- [GradleRIO](https://github.com/Open-RIO/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
+- [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 
 ## Programming
 
@@ -62,9 +62,9 @@
 
 - [WPILib](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
 - [SmartDashboard](https://github.com/wpilibsuite/SmartDashboard) - The official SmartDashboard repository containing code for the Java Driver Station dashboard.
-- [Strongback](https://github.com/strongback/strongback-java) - Library for FRC robots that makes it easier to write and test your code.
-- [ToastAPI](https://github.com/Open-Rio/ToastAPI) - Modular robot framework built on top of WPILib.
-- [CCRE](https://github.com/solar-engine/common-chicken-runtime-engine) - Runtime engine for elegant robot code, created by team 1540.
+- [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams.
+- [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
+- [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST.
 
 ### C++
 
