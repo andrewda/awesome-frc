@@ -9,6 +9,8 @@
 ## Contents
 
 - [General](#general)
+- [Programming](#programming)
+- [Vision](#vision)
 - [Scouting](#scouting)
 - [Driving](#driving)
 - [Community](#community)
