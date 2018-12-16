@@ -72,7 +72,8 @@
 ### C++
 
 - [WPILib (Java/C++)](https://github.com/wpilibsuite/allwpilib) - The official WPILib repository, containing code for the Java and C++ libraries.
-- [barebonesFRC](https://github.com/Ewpratten/barebonesFRC) - A stripped down codebase to help get a robot functioning as soon after kickoff as possible.
+- [barebonesFRC](https://github.com/Ewpratten/barebonesFRC) - \[DEPRECATED\] A stripped down codebase to help get a robot functioning as soon after kickoff as possible.
+- [BaseBot](https://github.com/frc5024/basebot) - A complete rewrite of barebonesFRC that is heavily optimized to run as fast as possible and use the bare minimum amount of resources during periodic functions.
 
 ### C#
 
