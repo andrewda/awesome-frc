@@ -34,6 +34,7 @@
 - [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 
 ## Suppliers
+
 - [CTR Electronics](http://www.ctr-electronics.com/) - Supplier of many popular parts certified for FRC use, including the Talon SRX's and Victor SPX's.
 - [AndyMark](https://www.andymark.com/) - A supplier for the educational robotics market, focusing particularly on FIRST.
 - [VEXpro](https://www.vexrobotics.com/vexpro) - A distributor of parts for FRC, FTC, and VEX formed by FIRST alumni.
