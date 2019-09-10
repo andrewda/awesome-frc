@@ -11,7 +11,7 @@ The Awesome List [Contributor Code of Conduct](https://github.com/sindresorhus/a
 
 Please ensure your pull request adheres to the following guidelines:
 
-- **If you just created something, wait 30 days before submitting.** This is a list of important and Awesome FRC materials, not every small project every contributor has given. Similarly, please don't submit projects for which there's no plan of maintenance. If you're going to graduate next year and abandon your prokect, don't add it to this list.
+- **If you just created something, wait 30 days before submitting.** This is a list of important and Awesome FRC materials, not every small project every contributor has given. Similarly, please don't submit projects for which there's no plan of maintenance. If you're going to graduate next year and abandon your project, don't add it to this list.
 - Some parts of this list are quite saturated. If you're planning to add your scouting app, it should offer something not covered by existing apps (a new platform or use case, for instance).
 - If your submission is not your own work, search prior pull requests to check you're not duplicating a suggesion.
 - If your submission is a GitHub repository, it should have a complete and well-written README, LICENSE file, and the like.
