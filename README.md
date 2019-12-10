@@ -84,8 +84,9 @@
 - [Shuffleboard](https://github.com/wpilibsuite/Shuffleboard) - A clean Driver Station dashboard for FIRST teams.
 - [Sertain](https://github.com/sertain/sertain) - A framework which builds upon WPILib and makes programming a robot in Kotlin beautiful.
 - [ROOSTER](https://github.com/flamingchickens1540/ROOSTER) - A common library of useful classes and systems for FIRST.
-- [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - An library for programming robots in Kotlin, made by Team 5190.
+- [FalconLibrary](https://github.com/FRC5190/FalconLibrary) - A library for programming robots in Kotlin, made by Team 5190.
 - [SnobotSim](https://github.com/snobotsim/SnobotSim) - A program that can simulate FRC robots programmed in Java.
+- [Lib5K](https://github.com/frc5024/lib5k) - A robotics library developed by team 5024 
 
 ### C++
 
