@@ -16,7 +16,7 @@
 - [Driving](#driving)
 - [Community](#community)
 - [Repositories](#repositories)
-  - [Java](#javakotlin)
+  - [Java/Kotlin](#javakotlin)
   - [C++](#c)
   - [C#](#c-1)
   - [Python](#python)
