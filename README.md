@@ -29,6 +29,7 @@
 
 - [The Blue Alliance](https://www.thebluealliance.com/) - FRC's leading event, team, and match tracker.
 - [The Compass Alliance](https://www.thecompassalliance.org/) - A resource for learning about all FRC topic, made for any level of experience.
+- [LearnFRC](https://learnfrc.systemerr.com/) - Free structured guides, quizzes, and printable certificates covering every FRC department, from programming to business.
 - [State Space Guide](https://github.com/calcmogul/state-space-guide) - A practical guide to state-space control: graduate-level control theory for high schoolers.
 - [GradleRIO](https://github.com/wpilibsuite/GradleRIO) - A powerful Gradle Plugin that allows teams competing in the FIRST robotics competition to produce and build their code.
 
